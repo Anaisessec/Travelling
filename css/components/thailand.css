@@ -1,0 +1,19 @@
+/* Thailand Styles */
+.destination {
+  background-color: #ff6666;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h2 {
+  color: #660000;
+}
+
+.destination p {
+  color: #993333;
+}
+
+.destination-img {
+  border-radius: 10px;
+}

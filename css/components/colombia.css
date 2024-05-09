@@ -1,0 +1,19 @@
+/* Colombia Styles */
+.destination {
+  background-color: #ff7f0e;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h2 {
+  color: #004c99;
+}
+
+.destination p {
+  color: #ffcc00;
+}
+
+.destination-img {
+  border-radius: 10px;
+}

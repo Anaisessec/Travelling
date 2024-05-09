@@ -1,0 +1,19 @@
+/* Mexico Styles */
+.destination {
+  background-color: #f9d423;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h2 {
+  color: #e65c00;
+}
+
+.destination p {
+  color: #803d00;
+}
+
+.destination-img {
+  border-radius: 10px;
+}

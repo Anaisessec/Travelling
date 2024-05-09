@@ -1,0 +1,19 @@
+/* USA Styles */
+.destination {
+  background-color: #4b5320;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h2 {
+  color: #ffd700;
+}
+
+.destination p {
+  color: #e5cc82;
+}
+
+.destination-img {
+  border-radius: 10px;
+}

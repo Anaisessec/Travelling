@@ -1,0 +1,19 @@
+/* Vietnam Styles */
+.destination {
+  background-color: #87cefa;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h2 {
+  color: #0047ab;
+}
+
+.destination p {
+  color: #264b72;
+}
+
+.destination-img {
+  border-radius: 10px;
+}

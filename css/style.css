@@ -1,0 +1,113 @@
+
+
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url ("components/button.css");
+@import url ("components/container.css");
+
+/* General style rules for fonts and colors */
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.btn-blue {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+.btn {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #f8f9fa;
+  color: #007bff;
+  border: 2px solid #007bff;
+  border-radius: 5px;
+  text-transform: uppercase;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+/* Header */
+/* Header */
+.header {
+  background-image: url('images/header-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 150px 0;
+  text-align: center;
+  /* Add a subtle overlay to improve text readability */
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.header h1 {
+  font-size: 48px; /* Increase font size for better emphasis */
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a text shadow for better contrast */
+}
+
+.header h2 {
+  font-size: 28px; /* Increase font size for better emphasis */
+  font-weight: normal; /* Use normal font weight for better readability */
+  margin-bottom: 30px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add a text shadow for better contrast */
+}
+
+/* Destination section */
+#destinations {
+  padding: 50px 0;
+}
+
+.destination {
+  margin-bottom: 50px;
+}
+
+.destination h2 {
+  font-size: 28px;
+}
+
+.destination-img {
+  width: 100%;
+  max-width: 800px;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Footer */
+footer {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 20px 0;
+}

@@ -1,0 +1,19 @@
+/* Costa Rica Styles */
+.destination {
+  background-color: #c2e2b7;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.destination h2 {
+  color: #006a4e;
+}
+
+.destination p {
+  color: #2d605e;
+}
+
+.destination-img {
+  border-radius: 10px;
+}
